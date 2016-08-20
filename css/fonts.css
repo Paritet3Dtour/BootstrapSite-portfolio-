@@ -1,0 +1,28 @@
+
+@font-face{
+	font-family: "AsapRegular";
+	src: url("../fonts/Asap/Asap-Regular.ttf");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face{
+	font-family: "AsapBold";
+	src: url("../fonts/Asap/Asap-Bold.ttf");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face{
+	font-family: "KarlaRegular";
+	src: url("../fonts/Karla/Karla-Regular.ttf");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face{
+	font-family: "KarlaItalic";
+	src: url("../fonts/Karla/Karla-Italic.ttf");
+	font-style: normal;
+	font-weight: normal;
+}
